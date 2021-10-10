@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[SearchData] (Table)
+       [dbo].[SearchWeight] (Table)
+       Default Constraint: unnamed constraint on [dbo].[SearchWeight] (Default Constraint)
+       [dbo].[FK_SearchWeight_SearchData] (Foreign Key)
+       [dbo].[usp_SearchTerms] (Procedure)
+
+** Supporting actions

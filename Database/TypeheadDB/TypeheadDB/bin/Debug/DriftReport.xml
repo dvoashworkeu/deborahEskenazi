@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DriftReport xmlns="http://schemas.microsoft.com/sqlserver/dac/DriftReport/2012/02">
+  <Additions>
+    <Object Name="[SelectedCount]" Parent="[dbo].[SearchWeight]" Type="SqlSimpleColumn" />
+  </Additions>
+  <Removals />
+  <Modifications>
+    <Object Name="[usp_SearchTerms]" Parent="[dbo]" Type="SqlProcedure" />
+    <Object Name="[SearchWeight]" Parent="[dbo]" Type="SqlTable" />
+  </Modifications>
+</DriftReport>

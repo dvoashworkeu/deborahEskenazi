@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="7ebbddc8-c8a3-4622-9201-33a93eceb879" ChangeDateTime="10/09/2021 20:07:47">
+    <Property Name="ElementName" Value="[dbo].[SearchWeight].[Weight]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[SearchWeight]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SelectedCount" />
+  </Operation>
+</Operations>

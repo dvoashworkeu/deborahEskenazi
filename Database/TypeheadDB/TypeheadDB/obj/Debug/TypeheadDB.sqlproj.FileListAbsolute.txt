@@ -1,0 +1,12 @@
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.dacpac
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.dll
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.pdb
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.dll
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.pdb
+C:\Users\dvhaz\Desktop\testcreditsuisse\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.sqlproj.AssemblyReference.cache
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.dacpac
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.dll
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\bin\Debug\TypeheadDB.pdb
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.dll
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.pdb
+C:\Users\dvhaz\Desktop\testcreditsuisse\deborahEskenazi\Database\TypeheadDB\TypeheadDB\obj\Debug\TypeheadDB.sqlproj.AssemblyReference.cache
