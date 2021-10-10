@@ -1,0 +1,12 @@
+<div class="typehead-wrapper">
+    <input value="{{ text }}" (focus)="onFocus($event)" (focusout)="onFocusOut($event)" (keyup)="onKeyUp($event)" type="text" class="typehead-input" name="TypeheadExample" id="TypeheadExample" placeholder="type text" />
+
+    <div [hidden]="!isListOpen" class="typehead-results-list">
+        <ul>
+            <li (click)="onItemSelected(res)" data-id="{{ res[idField] }}" *ngFor="let res of resultsList">
+                {{ res[displayField] }}
+            </li>
+        </ul>
+
+    </div>
+</div>

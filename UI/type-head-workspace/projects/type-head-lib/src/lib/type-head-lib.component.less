@@ -1,0 +1,65 @@
+lib-type-head
+{
+    line-height: 40px;
+    height: 40px;
+    width: 200px;
+} 
+
+.typehead-wrapper
+{
+    position:relative;
+
+    .typehead-input
+    {
+        border:none;
+        line-height: 40px;
+        height: 40px;
+        width: 200px;
+        &:focus-visible {
+            outline: none;
+        }
+    }
+
+    .typehead-results-list
+    {
+        position:absolute;
+        width:100%;
+        
+
+        ul
+        {
+            list-style-type: none;
+            padding: 0;
+            margin:0;
+            margin-top: 19px;
+
+            li 
+            {
+                line-height: 100%;
+                background-color: #000;
+                color: #fff;
+                opacity: .2;
+                font-weight: 500;
+                font-size: 17px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border: solid 1px green;
+                border-radius: 3px;
+                margin-top: 3px;
+                cursor: pointer;
+                text-indent: 6px;
+                &:hover
+                {
+                    opacity: 0.4;
+                }
+                &.typehead-selected
+                {
+                    opacity: 0.6;
+                    border-width: 3px;
+                }
+            }
+        }
+        
+    }
+}
+
